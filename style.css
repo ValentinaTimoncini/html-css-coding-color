@@ -1,0 +1,44 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.greyson{
+    background-color: #eeeeee;
+}
+
+nav.greyson{
+    text-align: center;
+}
+
+#coding{
+    height: 70px;
+    text-align: center;
+}
+
+#title{
+    font-size: 70px;
+    text-align: center;
+}
+
+.cella{
+    display: inline-block;
+    width: calc(50% - 8px);
+    text-align: center;
+    vertical-align: middle;
+}
+
+.immagini{
+    width: 600px;
+    height: 600px;
+}
+
+.foot{
+    text-align: center;
+    background-color: #6865f7;
+    color: #ffffff;
+}
+
+.feet{
+    color: #ffffff;
+    text-decoration: none;
+}
